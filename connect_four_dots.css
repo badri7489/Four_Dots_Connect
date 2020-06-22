@@ -1,0 +1,13 @@
+h1, h2, h3{
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+}
+
+.board button{
+  height: 100px;
+  width: 100px;
+  border: 4px solid black;
+  border-radius: 50%;
+  background-color: gray;
+  margin: 1px;
+}
